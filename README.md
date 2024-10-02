@@ -77,4 +77,5 @@ https://github.com/facebook/create-react-app
 **React Bootstrap** : Refer to https://react-bootstrap.github.io/getting-started/introduction/ to understand how to use React Bootstrap
 
 ## Dockerized this Simole React JS Project
-1. I wrote a dockerfile and built the docker image
+1. I wrote a dockerfile and built the docker image.
+2. Ran a docker container.
